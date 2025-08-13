@@ -1,0 +1,30 @@
+**Job Title: Data Scientist**
+
+**Overview:**
+A Data Scientist analyzes raw data and transforms it into actionable insights to improve business processes. This role involves building scalable data products, collaborating with stakeholders, and applying advanced analytics techniques across diverse datasets.
+
+**Responsibilities:**
+- Generate large databases from structured and unstructured data sources.
+- Analyze data to identify trends, patterns, and insights.
+- Understand and support product lifecycle phases; contribute to decision-making using data.
+- Develop interactive dashboards that integrate visualizations with real-time data.
+- Build scalable machine learning pipelines; apply feature engineering and optimization for performance.
+- Translate technical data insights into clear recommendations for stakeholders.  
+:contentReference[oaicite:0]{index=0}
+
+**Essential Skills & Experience:**
+- Strong grounding in machine learning methods (supervised/unsupervised learning, deep learning, Bayesian inference, RNNs, time series models).  
+- Proficiency in Python and ML libraries (pandas, scikit-learn, TensorFlow, Keras).  
+- Experience with cloud platforms (e.g., Google Cloud Platform).  
+:contentReference[oaicite:1]{index=1}
+
+**Desirable Skills:**
+- Knowledge of Java, Matlab, Mathematica, JavaScript.  
+- Background in Financial Services.  
+:contentReference[oaicite:2]{index=2}
+
+**Job Details:**
+- Job Type: Full-time / Contract (example: 12-month contract)
+- Location: Fully remote (UK only)
+- Rate: Example—£550 per day (for contract roles)  
+:contentReference[oaicite:3]{index=3}
