@@ -55,6 +55,6 @@ To run this project locally, follow these steps:
    GOOGLE_API_KEY="YOUR_API_KEY_HERE"
 
 
-Usage
+#Usage
 Once the setup is complete, run the following command in your terminal to launch the Streamlit application:
 streamlit run app.py
